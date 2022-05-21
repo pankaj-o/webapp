@@ -1,0 +1,8 @@
+use state syntex
+
+const [state, setstate]=useState(initial state);                    
+
+ternary  operater 
+props.mode=="light"?"dark":"light"
+
+rfce  = import React from 'react'
